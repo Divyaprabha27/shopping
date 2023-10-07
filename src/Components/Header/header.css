@@ -1,0 +1,35 @@
+.header-container {
+  width: 100%;
+  background-color: #f7f8f9;
+  position: fixed;
+  z-index: 1;
+}
+.logo {
+  float: left;
+  width: 30%;
+}
+.menu-center {
+  float: left;
+  width: 50%;
+}
+.menu-center li {
+    float: left;
+    width: 20%;
+    padding-top: 10px;
+    list-style: none;
+}
+.cart {
+  float: left;
+  width: 20%;
+  padding-top: 14px;
+}
+.cart-icon {
+  border: 1px solid;
+  width: 120px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 5px;
+}
+.cart-icon img {
+  margin-right: 3px;
+}
